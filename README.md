@@ -81,6 +81,7 @@ const yushamirza: Developer = {
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
 
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=yushamirza&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 ## 🚀 Featured Project
 
@@ -90,6 +91,10 @@ const yushamirza: Developer = {
 | [**EMS**](https://github.com/YushaMirza/Education_Management_System) | ASP.NET Core MVC  ·  C#  ·  Razor Views  ·  EF Core  ·  SQL Server  |
 | [**Fitness Tracker**](https://github.com/YushaMirza/Fitness_Tracker_Web_Application) | NodeJS  ·  ExpressJS  ·  ReactJS  ·  TypeScript  ·  MongoDB  |
 | [**Imposter Game App**](https://github.com/YushaMirza/Imposter_Mobile_Game_App) | Flutter · Dart |
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=yushamirza&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+## GitHub Repos By Category
 
 <p>
   <a href="https://github.com/YushaMirza?tab=repositories&q=Web+Application">
@@ -117,6 +122,7 @@ const yushamirza: Developer = {
   </a>
 </p>
 
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=yushamirza&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 ## 📊 GitHub Stats
 
