@@ -31,6 +31,44 @@
 - 💡 <em>✏️ A sentence about you and what you do.</em>
 - 🌐 <em>✏️ A sentence about you and what you do.</em>
 
+<div align="center">
+
+<img src="https://www.gitskins.com/api/readme-reference/hero?username=yushamirza&theme=neon&role=Frontend%20or%20full-stack%20engineer&location=Pakistan%2C%20Karachi&v=readme-reference-2" width="100%" alt="Yusha Mirza profile banner" />
+
+<br/>
+
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Frontend%20or%20full-stack%20engineer;Web%20Developer%20%26%20Software%20Engineering%20student%20at%20A%E2%80%A6;Building%20with%20PHP%20%C2%B7%20HTML%20%C2%B7%20CSS;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80" alt="" /></a>
+
+<br/>
+
+<a href="https://yushamirza.zya.me"><img src="https://img.shields.io/badge/Portfolio-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Portfolio" /></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Profile_views-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Profile views" /> <img src="https://img.shields.io/badge/3_followers-00FFA3?style=for-the-badge&amp;labelColor=0d1117" alt="3 followers" />
+
+</div>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=yushamirza&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+## ⚡ whoami
+
+```typescript
+const yushamirza: Developer = {
+  name:      "Yusha Mirza",
+  role:      "Frontend or full-stack engineer",
+  location:  "Pakistan, Karachi",
+  currently: "building in public",
+  stack:     ["PHP", "HTML", "CSS", "Dart", "JavaScript", "Hack"],
+  mantra:    "Make useful things, then make them delightful 🚀",
+};
+```
+
+> Web Developer &amp; Software Engineering student at Aptech. I build responsive, user-friendly apps using both frontend and backend technologies.
+> 
+> **Collaborations welcome when they are meaningful 🤝**
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=yushamirza&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 ## 🛠️ Tech Stack
 
