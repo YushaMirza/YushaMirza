@@ -112,4 +112,4 @@
 <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/yushamirza&label=Profile%20Views&query=$.public_repos&style=for-the-badge&color=1a1b27&labelColor=0D1117&logo=github"/>
 </div>
 
-<p align="center"><sub>Yusha Mirza · <a href="https://www.gitskins.com/readme-generator?template=community-cat-fullstack-read-me-4a6c">Cat Fullstack Read.me</a> template by <a href="https://www.gitskins.com/creators/Lele97">@Lele97</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center"><sub>Yusha Mirza</p>
