@@ -9,12 +9,16 @@
 | | | |
 | :---: | :---: | :---: |
 | <a href="https://www.linkedin.com/in/yusha-mirza" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Yusha%20Mirza-0077B5?style=for-the-badge&logo=data:image/svg%2Bxml%3Bbase64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMCAyMCI+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTEyNCwtNzMxOSkiPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0xNDQsNzMzOSBMMTQwLDczMzkgTDE0MCw3MzMyLjAwMSBDMTQwLDczMzAuMDgxIDEzOS4xNTMsNzMyOS4wMSAxMzcuNjM0LDczMjkuMDEgQzEzNS45ODEsNzMyOS4wMSAxMzUsNzMzMC4xMjYgMTM1LDczMzIuMDAxIEwxMzUsNzMzOSBMMTMxLDczMzkgTDEzMSw3MzI2IEwxMzUsNzMyNiBMMTM1LDczMjcuNDYyIEMxMzUsNzMyNy40NjIgMTM2LjI1NSw3MzI1LjI2IDEzOS4wODMsNzMyNS4yNiBDMTQxLjkxMiw3MzI1LjI2IDE0NCw3MzI2Ljk4NiAxNDQsNzMzMC41NTggTDE0NCw3MzM5IEwxNDQsNzMzOSBaIE0xMjYuNDQyLDczMjMuOTIxIEMxMjUuMDkzLDczMjMuOTIxIDEyNCw3MzIyLjgxOSAxMjQsNzMyMS40NiBDMTI0LDczMjAuMTAyIDEyNS4wOTMsNzMxOSAxMjYuNDQyLDczMTkgQzEyNy43OSw3MzE5IDEyOC44ODMsNzMyMC4xMDIgMTI4Ljg4Myw3MzIxLjQ2IEMxMjguODg0LDczMjIuODE5IDEyNy43OSw3MzIzLjkyMSAxMjYuNDQyLDczMjMuOTIxIEwxMjYuNDQyLDczMjMuOTIxIFogTTEyNCw3MzM5IEwxMjksNzMzOSBMMTI5LDczMjYgTDEyNCw3MzI2IEwxMjQsNzMzOSBaIi8+PC9nPjwvc3ZnPg=="/>
-</a> | <a href="https://yushamirza.zya.me" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Yusha%20Mirza-0077B5?style=for-the-badge&logo=data:image/svg%2Bxml%3Bbase64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMCAyMCI+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTEyNCwtNzMxOSkiPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0xNDQsNzMzOSBMMTQwLDczMzkgTDE0MCw3MzMyLjAwMSBDMTQwLDczMzAuMDgxIDEzOS4xNTMsNzMyOS4wMSAxMzcuNjM0LDczMjkuMDEgQzEzNS45ODEsNzMyOS4wMSAxMzUsNzMzMC4xMjYgMTM1LDczMzIuMDAxIEwxMzUsNzMzOSBMMTMxLDczMzkgTDEzMSw3MzI2IEwxMzUsNzMyNiBMMTM1LDczMjcuNDYyIEMxMzUsNzMyNy40NjIgMTM2LjI1NSw3MzI1LjI2IDEzOS4wODMsNzMyNS4yNiBDMTQxLjkxMiw3MzI1LjI2IDE0NCw3MzI2Ljk4NiAxNDQsNzMzMC41NTggTDE0NCw3MzM5IEwxNDQsNzMzOSBaIE0xMjYuNDQyLDczMjMuOTIxIEMxMjUuMDkzLDczMjMuOTIxIDEyNCw3MzIyLjgxOSAxMjQsNzMyMS40NiBDMTI0LDczMjAuMTAyIDEyNS4wOTMsNzMxOSAxMjYuNDQyLDczMTkgQzEyNy43OSw3MzE5IDEyOC44ODMsNzMyMC4xMDIgMTI4Ljg4Myw3MzIxLjQ2IEMxMjguODg0LDczMjIuODE5IDEyNy43OSw3MzIzLjkyMSAxMjYuNDQyLDczMjMuOTIxIEwxMjYuNDQyLDczMjMuOTIxIFogTTEyNCw3MzM5IEwxMjksNzMzOSBMMTI5LDczMjYgTDEyNCw3MzI2IEwxMjQsNzMzOSBaIi8+PC9nPjwvc3ZnPg=="/>
+  </a>
+
+  <a href="https://yushamirza.zya.me" target="_blank">
     <img src="https://img.shields.io/badge/website-yushamirza.zya.me-F7DF1E?style=for-the-badge&logo=devbox&logoColor=%23ffffff"/>
-  </a> | <a href="mailto:yousha.mirza328@gmail.com" target="_blank">
+  </a>
+  
+  <a href="mailto:yousha.mirza328@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/email-yousha.mirza328%40gmail.com-0078D4?style=for-the-badge&logo=mailgun&logoColor=%23ffffff"/>
-  </a> | 
+  </a>
 </p>
 
 ## 🧑‍💻 About Me
