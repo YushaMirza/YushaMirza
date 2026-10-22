@@ -67,10 +67,10 @@
 
 | Layer | Stack |
 |---|---|
-| [**Frontend**](https://github.com) | ReactJS  ·  Angular  ·  TypeScript  ·  JavaScript  ·  Tailwind CSS  |
-| **Backend** | .NET Core (C#)  ·  Node.js  ·  Express.js  ·  Laravel (PHP)  ·  Livewire · REST API  |
-| **Database** | MySQL  ·  SQL Server  ·  PostgreSQL  ·  MongoDB  ·  SQLite  |
-| **DevOps & Tools** | Git · GitHub · Vercel · Render · Monster ASP · InfinityFree |
+| [**Smart Society**](https://github.com/YushaMirza/Smart_Society_Management_System) | NodeJS  ·  ExpressJS  ·  ReactJS  ·  TypeScript  ·  MongoDB  |
+| [**EMS**](https://github.com/YushaMirza/Education_Management_System) | ASP.NET Core MVC  ·  C#  ·  Razor Views  ·  EF Core  ·  SQL Server  |
+| [**Fitness Tracker**](https://github.com/YushaMirza/Fitness_Tracker_Web_Application) | NodeJS  ·  ExpressJS  ·  ReactJS  ·  TypeScript  ·  MongoDB  |
+| [**Imposter Game App**](https://github.com/YushaMirza/Imposter_Mobile_Game_App) | Flutter · Dart |
 
 <p>
   <a href="https://github.com/YushaMirza?tab=repositories&q=Web+Application">
