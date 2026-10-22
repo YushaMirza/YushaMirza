@@ -100,10 +100,10 @@
 <div align="center">
  
 <img src="https://streak-stats.demolab.com/?user=yushamirza&theme=dark&hide_border=true" height="160"/>
-  
-![](https://github-readme-stats.shion.dev/api?username=yushamirza&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
 
 ![](https://github-readme-stats.shion.dev/api/?username=YushaMirza&theme=dark&hide_border=true&layout=compact)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=yushamirza&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 <img src="https://img.shields.io/github/followers/yushamirza?label=Followers&style=for-the-badge&logo=github&color=1a1b27&labelColor=0D1117"/>
 
