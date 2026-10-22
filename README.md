@@ -100,7 +100,7 @@ const yushamirza: Developer = {
 
 [**Smart Society**](https://github.com/YushaMirza/Smart_Society_Management_System)
 
-A featured build from this profile.
+A full-stack platform for managing residential communities and streamlining society operations.
 
 `NodeJS`  ·  `ExpressJS`  ·  `ReactJS`  ·  `TypeScript`  ·  `MongoDB`
 
@@ -111,9 +111,9 @@ A featured build from this profile.
 
 [**EMS**](https://github.com/YushaMirza/Education_Management_System)
 
-A featured build from this profile.
+An education management system for organizing academic records and administrative workflows.
 
-`ASP DOTNET Core MVC`  ·  `C#`  ·  `Razor Views`  ·  `EF Core`  ·  `SQL Server`
+`ASP .NET Core MVC`  ·  `C#`  ·  `Razor Views`  ·  `EF Core`  ·  `SQL Server`
 
 <a href="https://github.com/YushaMirza/Education_Management_System"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
 
@@ -124,7 +124,7 @@ A featured build from this profile.
 
 [**Fitness Tracker**](https://github.com/YushaMirza/Fitness_Tracker_Web_Application)
 
-A featured build from this profile.
+A fitness tracking platform for managing workouts, monitoring progress, and supporting healthier routines.
 
 `NodeJS`  ·  `ExpressJS`  ·  `ReactJS`  ·  `TypeScript`  ·  `MongoDB`
 
@@ -135,7 +135,7 @@ A featured build from this profile.
 
 [**Imposter Game App**](https://github.com/YushaMirza/Imposter_Mobile_Game_App)
 
-A featured build from this profile.
+A multiplayer social deduction game built around hidden roles, deception, and group interaction.
 
 `Flutter` · `Dart`
 
