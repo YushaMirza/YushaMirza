@@ -7,7 +7,9 @@
 
 <br/>
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=FULL%20STACK%20DEVELOPER;ASP%20DOTNET%20CORE%20Developer%20Engineering%20student%20at%20A%E2%80%A6;Building%20with%20PHP%20%C2%B7%20HTML%20%C2%B7%20CSS;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80" alt="" /></a>
+<a>
+  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=FULL+STACK+DEVELOPER;ASP.NET+CORE+%26+WEB+APPLICATIONS;FRONTEND+%26+BACKEND+DEVELOPMENT;Building+Modern+Digital+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
 </div>
 
