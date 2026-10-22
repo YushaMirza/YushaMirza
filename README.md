@@ -1,161 +1,115 @@
 <div align="center">
+<!-- <!---->-->
+<!---->
+<h1 align="center">Hey, I'm Yusha Mirza 👋</h1>
+<h6>Full-Stack Developer</h6>
+</div> 
 
-<img src="https://www.gitskins.com/api/readme-reference/hero?username=yushamirza&theme=neon&role=Frontend%20or%20full-stack%20engineer&location=Pakistan%2C%20Karachi&v=readme-reference-2" width="100%" alt="Yusha Mirza profile banner" />
+<p align="center">
+<a href="https://www.linkedin.com/in/your-handle/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Gabriele%20Grandinetti-0077B5?style=for-the-badge&logo=data:image/svg%2Bxml%3Bbase64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMCAyMCI+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTEyNCwtNzMxOSkiPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0xNDQsNzMzOSBMMTQwLDczMzkgTDE0MCw3MzMyLjAwMSBDMTQwLDczMzAuMDgxIDEzOS4xNTMsNzMyOS4wMSAxMzcuNjM0LDczMjkuMDEgQzEzNS45ODEsNzMyOS4wMSAxMzUsNzMzMC4xMjYgMTM1LDczMzIuMDAxIEwxMzUsNzMzOSBMMTMxLDczMzkgTDEzMSw3MzI2IEwxMzUsNzMyNiBMMTM1LDczMjcuNDYyIEMxMzUsNzMyNy40NjIgMTM2LjI1NSw3MzI1LjI2IDEzOS4wODMsNzMyNS4yNiBDMTQxLjkxMiw3MzI1LjI2IDE0NCw3MzI2Ljk4NiAxNDQsNzMzMC41NTggTDE0NCw3MzM5IEwxNDQsNzMzOSBaIE0xMjYuNDQyLDczMjMuOTIxIEMxMjUuMDkzLDczMjMuOTIxIDEyNCw3MzIyLjgxOSAxMjQsNzMyMS40NiBDMTI0LDczMjAuMTAyIDEyNS4wOTMsNzMxOSAxMjYuNDQyLDczMTkgQzEyNy43OSw3MzE5IDEyOC44ODMsNzMyMC4xMDIgMTI4Ljg4Myw3MzIxLjQ2IEMxMjguODg0LDczMjIuODE5IDEyNy43OSw3MzIzLjkyMSAxMjYuNDQyLDczMjMuOTIxIEwxMjYuNDQyLDczMjMuOTIxIFogTTEyNCw3MzM5IEwxMjksNzMzOSBMMTI5LDczMjYgTDEyNCw3MzI2IEwxMjQsNzMzOSBaIi8+PC9nPjwvc3ZnPg=="/>
+</a>
 
-<br/>
+  <a href="https://yushamirza.zya.me" target="_blank">
+    <img src="https://img.shields.io/badge/website-gabrielegrandinetti.dev-F7DF1E?style=for-the-badge&logo=devbox&logoColor=%23ffffff"/>
+  </a>
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Frontend%20or%20full-stack%20engineer;Web%20Developer%20%26%20Software%20Engineering%20student%20at%20A%E2%80%A6;Building%20with%20PHP%20%C2%B7%20HTML%20%C2%B7%20CSS;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80" alt="" /></a>
+  <a href="mailto:you@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/email-gabriele.grandinetti%40hotmail.com-0078D4?style=for-the-badge&logo=mailgun&logoColor=%23ffffff"/>
+  </a>
+</p>
 
-<br/>
+## 🧑‍💻 About Me
 
-<a href="https://yushamirza.zya.me"><img src="https://img.shields.io/badge/Portfolio-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Portfolio" /></a>
+<em>✏️ A sentence about you and what you do.</em>
+<em>✏️ A sentence about you and what you do.</em>
 
-<br/><br/>
+<em>✏️ A sentence about you and what you do.</em>
 
-<img src="https://img.shields.io/badge/Profile_views-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Profile views" /> <img src="https://img.shields.io/badge/3_followers-00FFA3?style=for-the-badge&amp;labelColor=0d1117" alt="3 followers" />
+- 🏙️ <em>✏️ A sentence about you and what you do.</em>
+- 🔭 <em>✏️ A sentence about you and what you do.</em>
+- 💡 <em>✏️ A sentence about you and what you do.</em>
+- 🌐 <em>✏️ A sentence about you and what you do.</em>
 
-</div>
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=yushamirza&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+## 🛠️ Tech Stack
 
-## ⚡ whoami
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring%20Ecosystem-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=flat-square&logo=apachekafka&logoColor=white)
 
-```typescript
-const yushamirza: Developer = {
-  name:      "Yusha Mirza",
-  role:      "Frontend or full-stack engineer",
-  location:  "Pakistan, Karachi",
-  currently: "building in public",
-  stack:     ["PHP", "HTML", "CSS", "Dart", "JavaScript", "Hack"],
-  mantra:    "Make useful things, then make them delightful 🚀",
-};
-```
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-> Web Developer &amp; Software Engineering student at Aptech. I build responsive, user-friendly apps using both frontend and backend technologies.
-> 
-> **Collaborations welcome when they are meaningful 🤝**
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=yushamirza&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+### DevOps & Tooling
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![NATS](https://img.shields.io/badge/NATS-199bfc?style=flat-square&logo=natsdotio&logoColor=white)
 
-## ⚔️ Tech Arsenal
+### Code Quality & Security
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=flat-square&logo=sonarcloud&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
+![Semgrep](https://img.shields.io/badge/Semgrep-1A1A1A?style=flat-square&logo=semgrep&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
 
-<div align="center">
 
-<img src="https://skillicons.dev/icons?i=php%2Chtml%2Ccss%2Cdart%2Cjavascript%2Ccpp&perline=8&theme=dark" alt="Tech stack" />
+## 🚀 Featured Project — PagaTu
 
-<br/><br/>
+> <em>✏️ What you built and why it matters.</em>
 
-**🧠 AI / ML &nbsp;·&nbsp; ⚙️ Automation**
+| Layer | Stack |
+|---|---|
+| **Frontend** | React · Vite · TypeScript |
+| **Backend** | Java · Spring Boot · REST API |
+| **Messaging** | Apache Kafka · NATS |
+| **Database** | PostgreSQL |
+| **DevOps** | Docker · GitHub Actions · PM2 |
 
-<img src="https://img.shields.io/badge/PHP-4F5D95?style=for-the-badge&amp;labelColor=0d1117" alt="PHP" /> <img src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&amp;labelColor=0d1117" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&amp;labelColor=0d1117" alt="CSS" /> <img src="https://img.shields.io/badge/Dart-00B4AB?style=for-the-badge&amp;labelColor=0d1117" alt="Dart" /> <img src="https://img.shields.io/badge/JavaScript-f1e05a?style=for-the-badge&amp;labelColor=0d1117" alt="JavaScript" /> <img src="https://img.shields.io/badge/Hack-878787?style=for-the-badge&amp;labelColor=0d1117" alt="Hack" /> <img src="https://img.shields.io/badge/C%2B%2B-f34b7d?style=for-the-badge&amp;labelColor=0d1117" alt="C++" /> <img src="https://img.shields.io/badge/CMake-DA3434?style=for-the-badge&amp;labelColor=0d1117" alt="CMake" />
+<p>
+  <a href="https://github.com/yushamirza?tab=repositories">
+    <img src="https://img.shields.io/badge/Backend%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+<br></br>
+  <a href="https://github.com/yushamirza?tab=repositories">
+    <img src="https://img.shields.io/badge/Frontend%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-</div>
-
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=yushamirza&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
-
-## 🌌 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**IndoLike-Tasks**
-
-A featured build from this profile.
-
-`HTML` · `0 stars`
-
-<a href="https://github.com/YushaMirza/IndoLike-Tasks"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-**Music-Website**
-
-A featured build from this profile.
-
-`PHP` · `0 stars`
-
-<a href="https://github.com/YushaMirza/Music-Website"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Biography-Website**
-
-A featured build from this profile.
-
-`CSS` · `0 stars`
-
-<a href="https://github.com/YushaMirza/Biography-Website"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-**CPISM_REPO**
-
-A featured build from this profile.
-
-`HTML` · `0 stars`
-
-<a href="https://github.com/YushaMirza/CPISM_REPO"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>More work samples</b> &nbsp;<i>(click to expand)</i></summary>
-
-<br/>
-
-- **Flutter-Dart** — Featured work · <a href="https://github.com/YushaMirza/Flutter-Dart"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
-
-</details>
-
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=yushamirza&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
+ 
+<img src="https://streak-stats.demolab.com/?user=yushamirza&theme=dark&hide_border=true" height="160"/>
+  
+![](https://github-readme-stats.shion.dev/api?username=yushamirza&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
 
-<img src="https://www.gitskins.com/api/section/stats?username=yushamirza&theme=neon&v=neon-circuit-stats-1" width="100%" alt="GitHub stats" />
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=yushamirza&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-<br/>
+<img src="https://img.shields.io/github/followers/yushamirza?label=Followers&style=for-the-badge&logo=github&color=1a1b27&labelColor=0D1117"/>
 
-<img src="https://www.gitskins.com/api/section/heatmap?username=yushamirza&theme=neon&style=aura" width="100%" alt="Contribution activity" />
+<img src="https://img.shields.io/github/stars/yushamirza?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&logo=github&color=1a1b27&labelColor=0D1117"/>
 
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/yushamirza&label=Profile%20Views&query=$.public_repos&style=for-the-badge&color=1a1b27&labelColor=0D1117&logo=github"/>
 </div>
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=yushamirza&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=yushamirza&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F136024137%3Fu%3D52cd2099f48f38d917ac47ec42a71106dd0833c9%26v%3D4" alt="yushamirza heatmap visual" />
-</p>
-
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=yushamirza&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
-
-## 🏆 Beyond the Code
-
-* 🧠 **Profile signal:** 2 contributions in the last year
-* 🚀 **Builder energy:** 5 public repositories
-* ⭐ **Community signal:** 0 stars across featured work
-* 🗣️ **Open to:** interesting collaborations and useful products
-
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=yushamirza&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
-
-<div align="center">
-
-## 🤝 Let's Build Something Meaningful
-
-I build useful software and enjoy turning ambitious ideas into working products.
-
-<a href="https://yushamirza.zya.me"><img src="https://img.shields.io/badge/Portfolio-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Portfolio" /></a>
-
-<br/><br/>
-
-***⭐ From [Yusha Mirza](https://github.com/yushamirza) · built with code, AI & a little chaos 😈***
-
-</div>
+<p align="center"><sub>Yusha Mirza · <a href="https://www.gitskins.com/readme-generator?template=community-cat-fullstack-read-me-4a6c">Cat Fullstack Read.me</a> template by <a href="https://www.gitskins.com/creators/Lele97">@Lele97</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
