@@ -35,8 +35,8 @@
 ## 🛠️ Tech Stack
 
 ### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![.Net Core]([https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white](https://img.shields.io/badge/.NET-5C2D91?style=badge&logo=.net&logoColor=white))
+![C#]([https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white))
 ![Spring](https://img.shields.io/badge/Spring%20Ecosystem-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=fastapi&logoColor=white)
@@ -72,17 +72,14 @@
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
 
 
-## 🚀 Featured Project — PagaTu
-
-> <em>✏️ What you built and why it matters.</em>
+## 🚀 Featured Project
 
 | Layer | Stack |
 |---|---|
-| **Frontend** | React · Vite · TypeScript |
-| **Backend** | Java · Spring Boot · REST API |
-| **Messaging** | Apache Kafka · NATS |
-| **Database** | PostgreSQL |
-| **DevOps** | Docker · GitHub Actions · PM2 |
+| **Frontend** | ReactJS  ·  Angular  ·  TypeScript  ·  JavaScript  ·  Tailwind CSS  |
+| **Backend** | .NET Core (C#)  ·  Node.js  ·  Express.js  ·  Laravel (PHP)  ·  Livewire · REST API  |
+| **Database** | MySQL  ·  SQL Server  ·  PostgreSQL  ·  MongoDB  ·  SQLite  |
+| **DevOps & Tools** | Git · GitHub · Vercel · Render · Monster ASP · InfinityFree |
 
 <p>
   <a href="https://github.com/YushaMirza?tab=repositories&q=Web+Application">
