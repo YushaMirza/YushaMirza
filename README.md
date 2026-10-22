@@ -1,8 +1,15 @@
 <div align="center">
-<!---->
-<h1 align="center">Hey, I'm Yusha Mirza 👋</h1>
-<h6>Full-Stack Developer</h6>
 </div> 
+
+<div align="center">
+
+<img src="https://www.gitskins.com/api/readme-reference/hero?username=yushamirza&theme=neon&role=Frontend%20or%20full-stack%20engineer&location=Pakistan%2C%20Karachi&v=readme-reference-2" width="100%" alt="Yusha Mirza profile banner" />
+
+<br/>
+
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Frontend%20or%20full-stack%20engineer;Web%20Developer%20%26%20Software%20Engineering%20student%20at%20A%E2%80%A6;Building%20with%20PHP%20%C2%B7%20HTML%20%C2%B7%20CSS;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80" alt="" /></a>
+
+</div>
 
 <p align="center">
   
@@ -18,17 +25,6 @@
     <img src="https://img.shields.io/badge/email-yousha.mirza328%40gmail.com-0078D4?style=for-the-badge&logo=mailgun&logoColor=%23ffffff"/>
   </a>
 </p>
-
-
-<div align="center">
-
-<img src="https://www.gitskins.com/api/readme-reference/hero?username=yushamirza&theme=neon&role=Frontend%20or%20full-stack%20engineer&location=Pakistan%2C%20Karachi&v=readme-reference-2" width="100%" alt="Yusha Mirza profile banner" />
-
-<br/>
-
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Frontend%20or%20full-stack%20engineer;Web%20Developer%20%26%20Software%20Engineering%20student%20at%20A%E2%80%A6;Building%20with%20PHP%20%C2%B7%20HTML%20%C2%B7%20CSS;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80" alt="" /></a>
-
-</div>
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=yushamirza&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
