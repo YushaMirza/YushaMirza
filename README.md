@@ -10,11 +10,11 @@
 </a>
 
   <a href="https://yushamirza.zya.me" target="_blank">
-    <img src="https://img.shields.io/badge/website-gabrielegrandinetti.dev-F7DF1E?style=for-the-badge&logo=devbox&logoColor=%23ffffff"/>
+    <img src="https://img.shields.io/badge/website-yushamirza.zya.me-F7DF1E?style=for-the-badge&logo=devbox&logoColor=%23ffffff"/>
   </a>
 
   <a href="mailto:yousha.mirza328@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/email-gabriele.grandinetti%40hotmail.com-0078D4?style=for-the-badge&logo=mailgun&logoColor=%23ffffff"/>
+    <img src="https://img.shields.io/badge/email-yousha.mirza328%40gmail.com-0078D4?style=for-the-badge&logo=mailgun&logoColor=%23ffffff"/>
   </a>
 </p>
 
