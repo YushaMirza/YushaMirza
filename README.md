@@ -83,16 +83,7 @@ const yushamirza: Developer = {
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=yushamirza&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
-## 🚀 Featured Project
-
-| Layer | Stack |
-|---|---|
-| [**Smart Society**](https://github.com/YushaMirza/Smart_Society_Management_System) | NodeJS  ·  ExpressJS  ·  ReactJS  ·  TypeScript  ·  MongoDB  |
-| [**EMS**](https://github.com/YushaMirza/Education_Management_System) | ASP.NET Core MVC  ·  C#  ·  Razor Views  ·  EF Core  ·  SQL Server  |
-| [**Fitness Tracker**](https://github.com/YushaMirza/Fitness_Tracker_Web_Application) | NodeJS  ·  ExpressJS  ·  ReactJS  ·  TypeScript  ·  MongoDB  |
-| [**Imposter Game App**](https://github.com/YushaMirza/Imposter_Mobile_Game_App) | Flutter · Dart |
-
-## 🌌 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
