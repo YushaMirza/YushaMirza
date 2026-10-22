@@ -35,8 +35,8 @@
 ## 🛠️ Tech Stack
 
 ### Backend
-![.Net Core]([https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white](https://img.shields.io/badge/.NET-5C2D91?style=badge&logo=.net&logoColor=white))
-![C#]([https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white))
+![.Net Core](https://img.shields.io/badge/.NET-5C2D91?style=badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring%20Ecosystem-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=fastapi&logoColor=white)
