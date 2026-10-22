@@ -92,9 +92,74 @@ const yushamirza: Developer = {
 | [**Fitness Tracker**](https://github.com/YushaMirza/Fitness_Tracker_Web_Application) | NodeJS  ·  ExpressJS  ·  ReactJS  ·  TypeScript  ·  MongoDB  |
 | [**Imposter Game App**](https://github.com/YushaMirza/Imposter_Mobile_Game_App) | Flutter · Dart |
 
+## 🌌 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**YushaMirza**
+
+A featured build from this profile.
+
+`Open source` · `1 stars`
+
+<a href="https://github.com/YushaMirza/YushaMirza"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+**IndoLike-Tasks**
+
+A featured build from this profile.
+
+`HTML` · `1 stars`
+
+<a href="https://github.com/YushaMirza/IndoLike-Tasks"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Music-Website**
+
+A featured build from this profile.
+
+`PHP` · `1 stars`
+
+<a href="https://github.com/YushaMirza/Music-Website"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+**Biography-Website**
+
+A featured build from this profile.
+
+`CSS` · `1 stars`
+
+<a href="https://github.com/YushaMirza/Biography-Website"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>More work samples</b> &nbsp;<i>(click to expand)</i></summary>
+
+<br/>
+
+- **CPISM_REPO** — Featured work · <a href="https://github.com/YushaMirza/CPISM_REPO"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+- **Flutter-Dart** — Featured work · <a href="https://github.com/YushaMirza/Flutter-Dart"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+
+</details>
+
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=yushamirza&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
-## GitHub Repos By Category
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=yushamirza&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+## 🎯 GitHub Repos By Category
 
 <p>
   <a href="https://github.com/YushaMirza?tab=repositories&q=Web+Application">
