@@ -113,7 +113,7 @@ A featured build from this profile.
 
 A featured build from this profile.
 
-`ASP.NET Core MVC`  ·  `C#`  ·  `Razor Views`  ·  `EF Core`  ·  `SQL Server`
+`.NET Core MVC`  ·  `C#`  ·  `Razor Views`  ·  `EF Core`  ·  `SQL Server`
 
 <a href="https://github.com/YushaMirza/Education_Management_System"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
 
