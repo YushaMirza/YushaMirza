@@ -98,48 +98,48 @@ const yushamirza: Developer = {
 <tr>
 <td width="50%" valign="top">
 
-**YushaMirza**
+[**Smart Society**](https://github.com/YushaMirza/Smart_Society_Management_System)
 
 A featured build from this profile.
 
-`Open source` · `1 stars`
+`NodeJS`  ·  `ExpressJS`  ·  `ReactJS`  ·  `TypeScript`  ·  `MongoDB`
 
-<a href="https://github.com/YushaMirza/YushaMirza"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+<a href="https://github.com/YushaMirza/Smart_Society_Management_System"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-**IndoLike-Tasks**
+[**EMS**](https://github.com/YushaMirza/Education_Management_System)
 
 A featured build from this profile.
 
-`HTML` · `1 stars`
+`ASP.NET Core MVC`  ·  `C#`  ·  `Razor Views`  ·  `EF Core`  ·  `SQL Server`
 
-<a href="https://github.com/YushaMirza/IndoLike-Tasks"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+<a href="https://github.com/YushaMirza/Education_Management_System"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**Music-Website**
+[**Fitness Tracker**](https://github.com/YushaMirza/Fitness_Tracker_Web_Application)
 
 A featured build from this profile.
 
-`PHP` · `1 stars`
+`NodeJS`  ·  `ExpressJS`  ·  `ReactJS`  ·  `TypeScript`  ·  `MongoDB`
 
-<a href="https://github.com/YushaMirza/Music-Website"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+<a href="https://github.com/YushaMirza/Fitness_Tracker_Web_Application"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-**Biography-Website**
+[**Imposter Game App**](https://github.com/YushaMirza/Imposter_Mobile_Game_App)
 
 A featured build from this profile.
 
-`CSS` · `1 stars`
+`Flutter` · `Dart`
 
-<a href="https://github.com/YushaMirza/Biography-Website"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+<a href="https://github.com/YushaMirza/Imposter_Mobile_Game_App"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
 
 </td>
 </tr>
