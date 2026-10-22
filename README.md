@@ -85,12 +85,28 @@
 | **DevOps** | Docker · GitHub Actions · PM2 |
 
 <p>
-  <a href="https://github.com/yushamirza?tab=repositories">
-    <img src="https://img.shields.io/badge/Backend%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/YushaMirza?tab=repositories&q=Web+Application">
+    <img src="https://img.shields.io/badge/Web%20Applicationd%20Repos-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-<br></br>
-  <a href="https://github.com/yushamirza?tab=repositories">
-    <img src="https://img.shields.io/badge/Frontend%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <br></br>
+  <a href="https://github.com/YushaMirza?tab=repositories&q=Management+System">
+    <img src="https://img.shields.io/badge/Management%20System%20Repos-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <br></br>
+  <a href="https://github.com/YushaMirza?tab=repositories&q=Ecommerce">
+    <img src="https://img.shields.io/badge/Ecommerce%20Repos-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <br></br>
+  <a href="https://github.com/YushaMirza?tab=repositories&q=App">
+    <img src="https://img.shields.io/badge/Application%20Repos-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <br></br>
+  <a href="https://github.com/YushaMirza?tab=repositories&q=Flutter">
+    <img src="https://img.shields.io/badge/Flutter%20Repos-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <br></br>
+  <a href="https://github.com/YushaMirza?tab=repositories&q=Website">
+    <img src="https://img.shields.io/badge/Websites%20Repos-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
