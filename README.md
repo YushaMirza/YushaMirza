@@ -38,14 +38,16 @@ const yushamirza: Developer = {
   role:      "Full Stack Developer",
   location:  "Karachi, Pakistan",
   currently: "building and improving web applications",
-  stack:     ["C#", ".NET", "ASP.NET Core", "React", "Angular", "TypeScript", "JavaScript", "Node.js", "Express.js", "PHP", "Laravel", "MySQL", "SQL Server", "MongoDB", "PostgreSQL", "SQLite", "Flutter", "Dart"],
+  stack:     ["C#", ".NET", "ASP.NET Core", "React", "Angular", "TypeScript", "JavaScript", "Node.js", "Express.js", "PHP", "Laravel", "MySQL", "SQL Server", "MongoDB", "PostgreSQL", "SQLite"],
   mantra:    "Build useful software. Make it reliable. Make it delightful",
 };
 ```
 
-> Web Developer &amp; Software Engineering student at Aptech. I build responsive, user-friendly apps using both frontend and backend technologies.
+> Full Stack Developer focused on building modern, responsive web applications and scalable software solutions using frontend and backend technologies.
+>
+> I enjoy turning ideas into practical applications with clean code, intuitive interfaces, and reliable functionality.
 > 
-> **Collaborations welcome when they are meaningful 🤝**
+> **Open to meaningful collaborations and exciting projects 🤝**
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=yushamirza&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
