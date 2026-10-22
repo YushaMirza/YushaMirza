@@ -35,11 +35,11 @@
 ```typescript
 const yushamirza: Developer = {
   name:      "Yusha Mirza",
-  role:      "Frontend or full-stack engineer",
-  location:  "Pakistan, Karachi",
-  currently: "building in public",
-  stack:     ["PHP", "HTML", "CSS", "Dart", "JavaScript", "Hack"],
-  mantra:    "Make useful things, then make them delightful 🚀",
+  role:      "Full Stack Developer",
+  location:  "Karachi, Pakistan",
+  currently: "building and improving web applications",
+  stack:     ["C#", ".NET", "ASP.NET Core", "React", "Angular", "TypeScript", "JavaScript", "Node.js", "Express.js", "PHP", "Laravel", "MySQL", "SQL Server", "MongoDB", "PostgreSQL", "SQLite", "Flutter", "Dart"],
+  mantra:    "Build useful software. Make it reliable. Make it delightful",
 };
 ```
 
