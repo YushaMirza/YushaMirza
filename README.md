@@ -141,12 +141,10 @@ A multiplayer social deduction game built around hidden roles, deception, and gr
 
 <br/>
 
-- **CPISM_REPO** — Featured work · <a href="https://github.com/YushaMirza/CPISM_REPO"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
-- **Flutter-Dart** — Featured work · <a href="https://github.com/YushaMirza/Flutter-Dart"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+- [**FanHubPlus Fandom WebApp**](https://github.com/YushaMirza/FanHubPlus_Web_Application)  · <a href="https://github.com/YushaMirza/FanHubPlus_Web_Application"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+- [**College Event Management**](https://github.com/YushaMirza/College_Event_Management_System) · <a href="https://github.com/YushaMirza/College_Event_Management_System"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
 
 </details>
-
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=yushamirza&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=yushamirza&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
